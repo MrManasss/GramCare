@@ -57,17 +57,31 @@ Our backend (FastAPI + Llama-3-Groq) is specifically prompted to output summarie
 
 ## 📸 Media & Submission Proofs
 
-### 1. Symptom Selection UI
-![Symptom Selection Screenshot](https://via.placeholder.com/800x450?text=Upload+Icon-based+Symptom+Selection+Screenshot+Here)
-*Visual icon-based triage for ease of use by health workers.*
 
-### 2. Demo Video (Offline Sync)
-[Click here to watch the Demo Video](https://via.placeholder.com/800x450?text=Upload+Link+to+Demo+Video+Here)
-*Demonstrates offline data entry followed by automatic sync and AI generation.*
+ ### Front Page ###
+<img width="552" height="921" alt="Screenshot 2026-04-01 132212" src="https://github.com/user-attachments/assets/6520233c-a39c-4c62-9bf2-be6b2267e18e" />
 
-### 3. Lighthouse PWA Audit
-![Lighthouse Score](https://via.placeholder.com/800x450?text=Upload+Lighthouse+PWA+Score+Screenshot+Here)
-*Verification of PWA compliance, performance, and best practices.*
+
+ ### User Details ###
+<img width="563" height="908" alt="Screenshot 2026-04-01 132429" src="https://github.com/user-attachments/assets/c40ba801-f652-4b93-a724-3e0300251e06" />
+
+
+ ### Symptoms ###
+<img width="550" height="916" alt="Screenshot 2026-04-01 132505" src="https://github.com/user-attachments/assets/63a2acb4-bff6-4789-80ed-c49cbc104c9c" />
+
+
+ ### Medical History ###
+<img width="547" height="918" alt="Screenshot 2026-04-01 132556" src="https://github.com/user-attachments/assets/c9fb5e41-75c3-4036-b064-622bd3ba7a82" />
+
+
+ ### AI Response ###
+<img width="549" height="922" alt="Screenshot 2026-04-01 132615" src="https://github.com/user-attachments/assets/33100371-a618-4ff5-9f74-363520c22bea" />
+
+
+### Summery ###
+<img width="554" height="915" alt="Screenshot 2026-04-01 132747" src="https://github.com/user-attachments/assets/151208a2-6192-41bb-8b25-aa80a65c1c8b" />
+
+
 
 ---
 
