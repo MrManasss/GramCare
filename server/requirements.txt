@@ -1,7 +1,7 @@
-fastapi==0.109.0
-uvicorn==0.27.0
-python-dotenv==1.0.0
-groq==0.4.1
-pydantic==2.5.0
-aiohttp==3.9.1
-python-multipart==0.0.9
+fastapi
+uvicorn
+python-dotenv
+groq
+pydantic
+aiohttp
+python-multipart
