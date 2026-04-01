@@ -17,7 +17,6 @@ services:
   # 🌐 Frontend (Vite/React)
   - type: static
     name: gramcare-frontend
-    env: static
     region: ohio
     plan: free
     rootDir: client
